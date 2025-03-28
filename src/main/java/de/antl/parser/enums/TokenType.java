@@ -9,6 +9,6 @@ public enum TokenType {
     ARRAY,
     DICTIONARY,
     STREAM,
-    EMPTY
+    OPERATOR,
 
 }
